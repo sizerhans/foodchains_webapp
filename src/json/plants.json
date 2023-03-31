@@ -1,0 +1,29 @@
+{
+    "cat": [
+        {
+            "label": "Plant",
+            "noNextTier": false
+        }
+    ],
+    "1": [
+        {
+            "label": "Round",
+            "noNextTier": false
+        },
+        {
+            "label": "Needle"
+        }
+    ],
+    "2": [
+        {
+            "label": "green",
+            "noNextTier": true
+        },
+        {
+            "label": "brown"
+        },
+        {
+            "label": "red"
+        }
+    ]
+}

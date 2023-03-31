@@ -1,0 +1,47 @@
+{
+    "cat": [
+        {
+            "label": "Animal",
+            "noNextTier": false
+        }
+    ],
+    "1": [
+        {
+            "label": "Insect",
+            "noNextTier": false
+        },
+        {
+            "label": "Bird"
+        },
+        {
+            "label": "Mammal"
+        }
+    ],
+    "2": [
+        {
+            "label": "limbless",
+            "noNextTier": false
+        },
+        {
+            "label": "Two Legs"
+        },
+        {
+            "label": "Four Legs"
+        },
+        {
+            "label": "Four Plus"
+        }
+    ],
+    "3": [
+        {
+            "label": "brown",
+            "noNextTier": true
+        },
+        {
+            "label": "green"
+        },
+        {
+            "label": "red"
+        }
+    ]
+}
